@@ -36,7 +36,7 @@ Those images are:
 
 <img width="287" alt="image" src="https://user-images.githubusercontent.com/16454824/223683779-427fd9f0-13b7-4e27-abb7-c592ea1880e2.png">
 
-The models predicts these images as mallow but they belong to camellia species.
+The model predicts these images as mallow but they belong to camellia species.
 
 
 
