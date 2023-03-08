@@ -38,6 +38,8 @@ Those images are:
 
 The model predicts these images as mallow but they belong to camellia species.
 
+You can check the state of the art models for the same dataset from the following site: https://paperswithcode.com/sota/image-classification-on-flowers-102
+
 
 
 
